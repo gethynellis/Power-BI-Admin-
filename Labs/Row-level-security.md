@@ -4,6 +4,7 @@ lab:
     module: 'Module 13 - Row-Level Security'
 ---
 
+You will complete this using the virtual machine and Office 365 credntials supplied by the lab hoster
 
 # **Enforce Row-Level Security**
 
