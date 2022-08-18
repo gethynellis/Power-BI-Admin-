@@ -28,13 +28,14 @@
 ### Task 2 Using the  Power BI Premium Capacity Utilization and Metrics app
 
 1. Once the app is installed click on the tile.
-2. The app has six  pages:
+2. The app has seven  pages, note only three are active in the left menu and four in the top menu on the screen. The others you have to drillthrough to see:
   - Overview
   - Evidence
   - Refresh
   - Help
   - Artifact Detail
   - Refresh Detail
+  - Timepoint
 
 ![Premium Capacity Utilization and metrics Application (Images/AppPages.png)
 
@@ -53,6 +54,19 @@
 7. Right-click on **Refresh by artifact** visual, select drill through and select **Artifact Detail** This page shows a view of everything that happened to the idividual artefact over the last two weeks. Click the **Help** page to get a detail description of this page and what it shows
 
 ![Premium Capacity Utilization and metrics Application](Images/RefreshPageDrillThrough.png)
+
+8. Click the **back <--** button on the artifact page to return to the **Refresh** page  and do the same thing for Refresh Details. This will show you details of the CPU refreshes consume. Click **Help** so you can see the doucmentation relating tho that page.
+9. The Timepoint page provides a detailed view of every operation that resulted in CPU activity at a given timepoint.  Use this page to understand which interactive and background operations contributed the most to CPU usage. 
+
+**We don't have any overloaded timepoints so we can't get to this page**
+You can only get to this page by using the drill through feature in an overloaded timepoint in one of these visuals:
+  - CPU over time in the Overview page
+  - Overloading windows in the Evidence page
+
+10
+
+
+
 
 
 
