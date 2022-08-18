@@ -27,6 +27,27 @@
 
 ### Task 2 Using the  Power BI Premium Capacity Utilization and Metrics app
 
+1. Once the app is installed click on the tile.
+2. The app has four  pages:
+  - Overview
+  - Evidence
+  - Refresh
+  - Help
+
+![Premium Capacity Utilization and metrics Application (Images/AppPages.png)
+
+3. Make sure that aiademo capcity is selected
+
+4. The  **Overview** page will open by default. The **Overview** page provides capacity performance. It is broken  down into three sections: **Artifacts**, **Performance** and **CPU over Time**.
+
+5. Click on the **Evidence** page The Evidence page provides information about overloads in your capacity.  You can use it to establish which Power BI items (such as reports, dashboards, and datasets) cause overload, and which items are affected by this overload.
+
+
+![Premium Capacity Utilization and metrics Application (Images/Evidence.png)
+ 
+6. Click on the refresh page
+
+
 
 
 
