@@ -10,7 +10,7 @@ Let’s use Power BI   audit Log to answer a few questions.
 
 3. From Activity slicer, select to PublishToWebReport.
 
-! [Publish to web] (labs\PublishToWeb.png)
+! [Publish to web] (images/PublishToWeb.png)
 
 4. Notice there a few users who have published to web. 
 
