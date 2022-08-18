@@ -27,3 +27,22 @@ Let’s use Power BI   audit Log to answer a few questions.
 
 3. Remove all filters once done.
 
+### How many users have Opted to use Pro trial?
+
+1. From Activity slicer, select to OptInForProTrial.
+
+2. Notice there are several users who have used Pro Trial and a couple of them have extended their Pro trial. So you might want to think about providing them Pro licenses before they lose the trial licenses.
+
+
+4. Remove all filters once done.
+
+### Does user SQLSocialite2 need to be upgraded to Pro license?
+
+10. From Usage by User table, select SQLSocialiate2.
+11. Notice the user is not just viewing reports and dashboards but is also performing Pro level activity like creating  datasets and reports across multiple 
+workspaces. This user is making use of Pro features. It will make sense to upgrade to Pro license.
+
+### Congratulation you have completed the Exercise
+
+
+
