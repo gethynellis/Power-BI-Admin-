@@ -4,6 +4,7 @@ lab:
     module: 'Module 9 - Create Paginated Reports in Power BI'
 ---
 
+You will use the virtual machine provided by the lab host to complete this exercise
 
 # **Create a Power BI Paginated Report**
 
