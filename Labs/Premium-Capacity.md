@@ -43,7 +43,7 @@
 5. Click on the **Evidence** page The Evidence page provides information about overloads in your capacity.  You can use it to establish which Power BI items (such as reports, dashboards, and datasets) cause overload, and which items are affected by this overload.
 
 
-![Premium Capacity Utilization and metrics Application (Images/Evidence.png)
+![Premium Capacity Utilization and metrics Application](Images/Evidence.png)
  
 6. Click on the refresh page
 
