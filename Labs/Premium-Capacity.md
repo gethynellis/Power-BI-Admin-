@@ -63,7 +63,8 @@ You can only get to this page by using the drill through feature in an overloade
   - CPU over time in the Overview page
   - Overloading windows in the Evidence page
 
-10
+10. Click the **Help** The Help page provides a help summary for each one of the Gen2 metrics app pages.  At the top there’s a  tab for each page in the app.  Select a tab to review the help summary
+
 
 
 
