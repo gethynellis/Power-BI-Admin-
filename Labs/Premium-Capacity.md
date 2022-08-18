@@ -28,11 +28,13 @@
 ### Task 2 Using the  Power BI Premium Capacity Utilization and Metrics app
 
 1. Once the app is installed click on the tile.
-2. The app has four  pages:
+2. The app has six  pages:
   - Overview
   - Evidence
   - Refresh
   - Help
+  - Artifact Detail
+  - Refresh Detail
 
 ![Premium Capacity Utilization and metrics Application (Images/AppPages.png)
 
@@ -45,7 +47,13 @@
 
 ![Premium Capacity Utilization and metrics Application](Images/Evidence.png)
  
-6. Click on the refresh page
+6. Click on the **Refresh** page. The Refresh page is designed to help you identify aspects concerning refresh performance such as refresh CPU consumption power.
+![Premium Capacity Utilization and metrics Application](Images/RefreshPage.png)
+
+7. Right-click on **Refresh by artifact** visual, select drill through and select **Artifact Detail** This page shows a view of everything that happened to the idividual artefact over the last two weeks. Click the **Help** page to get a detail description of this page and what it shows
+
+![Premium Capacity Utilization and metrics Application](Images/RefreshPageDrillThrough.png)
+
 
 
 
