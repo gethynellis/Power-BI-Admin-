@@ -7,3 +7,4 @@ In this group activity you will document how you currently approach sharing and 
 -	How to you approach collaboration
 -	 How do you manage Application Lifecycle Management? Do you use workspaces for each enviornment? 
 -	What risks, if any, do you think collaboration can pose 
+-	Do you think there are any improvements that can be made in how your organisation approaches collaboration?
