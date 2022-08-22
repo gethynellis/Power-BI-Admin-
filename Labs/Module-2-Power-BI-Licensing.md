@@ -14,4 +14,4 @@ In this workshop as a group I want you to document the existing capacities that 
 
 -	How many report creators do you have?
 
-- Do you think there are any effiencies that can be made around your organisation current licensing position? If so what would those efficiencies be and how would you implement them?
+- Do you think there are any efficiencies that can be made around your organisation current licensing position? If so what would those efficiencies be and how would you implement them?
