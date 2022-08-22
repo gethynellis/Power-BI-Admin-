@@ -12,6 +12,8 @@
 
 3.	How experienced are your developers?
 
+4. Do you have any citizen developers? What is the ratio?
+
 4.	What kind of security requirements do you have?
 
 5.	How much do you need to audit?
@@ -27,8 +29,8 @@ Document how your organisation uses the four pillars of governance to support Po
 
 Consider whether
 -  Your organisation currently provides training to your end users on Power BI
--  Do you have the processes and frameworks in place to support you. If so, list them in your document. If not what could you implement to help?
--  Do you defined Power BI roles in your organisation that can make it eay for user to find help?
+-  Do you have the processes and frameworks in place to support your governance strategy. If so, list them in your document. If not what could you implement to help?
+-  Do you defined Power BI roles in your organisation that can make it easy for user to find help?
 -  Do you monitor compliance, if so how, what tools do you use? If not what do you think would be useful to monitor?
 
 
