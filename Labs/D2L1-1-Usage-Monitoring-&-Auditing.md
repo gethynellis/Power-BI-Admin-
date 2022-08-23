@@ -42,7 +42,11 @@ Let’s use Power BI   audit Log to answer a few questions.
 11. Notice the user is not just viewing reports and dashboards but is also performing Pro level activity like creating  datasets and reports across multiple 
 workspaces. This user is making use of Pro features. It will make sense to upgrade to Pro license.
 
+### Explore the A
+
 ### Congratulation you have completed the Exercise
+
+Use the Microsoft Admin Center explore the Audit log for the aiaddemo capacity.
 
 
 
