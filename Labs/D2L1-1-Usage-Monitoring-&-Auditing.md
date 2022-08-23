@@ -4,7 +4,7 @@ Let’s use Power BI   audit Log to answer a few questions.
 
 ### Problem: Data is leaked to the internet. How to identify the issue?
 
-1. Open PowerBIAuditLog.pbix (file located in Assets folder). You can download this file from here https://gethynellis.sharepoint.com/:u:/s/StLukesHealthCare/EXbv6N7f5LJBsruE6F_EVPABMhU9seUB8zRod1vWNKoZ_g?e=XWFA7f
+1. Open PowerBIAuditLog.pbix (file located in Assets folder). You can download this file from here https://gethynellis.sharepoint.com/:u:/s/StLukesHealthCare/EXC_phl8CL5LvZNTjh25ObsBi26lcPStsZK8nZG7DCrQyQ?e=RiZOoX
 
 2. Publish to Web is a feature where data can be accessed without entering credentials. So, let’s look for this activity.
 
