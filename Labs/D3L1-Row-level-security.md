@@ -8,7 +8,7 @@ You will complete this using the virtual machine and Office 365 credntials suppl
 
 # **Enforce Row-Level Security**
 
-**The estimated time to complete the lab is 15 minutes**
+**The estimated time to complete the lab is 20 minutes**
 
 In this lab you will create a many-to-many relationship between the **Salesperson** table and the **Sales** table. You will also enforce row-level security to ensure that a salesperson can only analyze sales data for their assigned region(s).
 
