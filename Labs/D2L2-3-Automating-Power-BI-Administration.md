@@ -102,7 +102,7 @@ I want to get gateway information, status of gateway, gateways in a cluster, etc
 # Install the On-Premises Data Gateway PowerShell module
 # This requires pre-release currently
 #
-# Install-Module -Name OnPremisesDataGatewayMgmt -AllowPrerelease
+# Install-Module -Name Datagateway
 
 # Cluster ID: f16c0ea9-c0af-418e-aab2-59f44e07c42b
 
