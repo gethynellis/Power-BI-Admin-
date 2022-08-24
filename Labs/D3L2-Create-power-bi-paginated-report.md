@@ -6,6 +6,8 @@ lab:
 
 You will use the virtual machine provided by the lab host to complete this exercise
 
+You will also need to download report builder https://www.microsoft.com/en-us/download/confirmation.aspx?id=58158
+
 # **Create a Power BI Paginated Report**
 
 **The estimated time to complete the lab is 45 minutes**
